@@ -1,6 +1,9 @@
-# Fun With Maps - Talks & Requests
+# [Fun With Maps](https://www.meetup.com/de-DE/fun-with-maps/) - Talks & Requests Tracker
 
-This repository is for collecting proposals and requests for talks for meetups of the user group [Fun With Maps](https://www.meetup.com/de-DE/fun-with-maps/).
+![clean_504859657](https://user-images.githubusercontent.com/223822/220111877-800d378e-8a90-4710-8831-69a374f6d4c7.jpeg)
+
+
+This repository is for collecting proposals and requests for talks for meetups of the user group ***[Fun With Maps](https://www.meetup.com/de-DE/fun-with-maps/)***.
 
 ## Talk Proposals
 
